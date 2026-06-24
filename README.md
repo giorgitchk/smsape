@@ -1,7 +1,7 @@
 # Receive SMS Online — Temporary Virtual Phone Numbers (2026)
 
 **Website:** [smsape.com](https://smsape.com)  
-**Social:** [Social](https://goo.su/FiobiYT)
+**Social:** [All social networks](https://goo.su/FiobiYT)
 
 SmsApe is an online SMS verification platform that provides **temporary phone numbers** for receiving OTP codes. No physical SIM card, no KYC — pick a service and country in the dashboard, get a virtual number, and receive your verification code in seconds.
 
@@ -222,7 +222,7 @@ Stock and enabled country/service pairs change in real time. Pick a country in t
 ## Links
 
 - **Website:** [smsape.com](https://smsape.com)
-- **Social:** [Social](https://goo.su/FiobiYT)
+- **Social:** [All social networks](https://goo.su/FiobiYT)
 - **Countries:** [https://smsape.com/countries](https://smsape.com/countries)
 - **Top services:** [https://smsape.com/services](https://smsape.com/services)
 - **Rent numbers:** [https://smsape.com/rent](https://smsape.com/rent)
